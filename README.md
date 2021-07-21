@@ -1,4 +1,4 @@
-# Hi There! 👋 I'm <a href="https://linkedin.com/in/anthonyhenley">Anthony</a>, a full stack developer in Ottawa.
+# Hi There! 👋 I'm <a href="https://www.anthonyhenley.com">Anthony</a>, a full stack developer in Ottawa.
 
 - :pencil2: I'm also a designated accountant (CPA, CMA) with a passion for Fintech
 - :chart_with_upwards_trend: My love for building beautiful financial reports using Tableau and Power BI lead me down the rabbit hole of learning to code
@@ -17,4 +17,4 @@
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </div>
 
-### I'd love to connect on LinkedIn. Please reach out anytime <a href="https://linkedin.com/in/anthonyhenley">here</a>.
+### I'd love to connect. Please reach out or check my Portfolio anytime <a href="https://www.anthonyhenley.com">here</a>.
